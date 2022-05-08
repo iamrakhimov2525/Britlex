@@ -1,0 +1,41 @@
+.my{
+    height: 40px;
+}
+.my-color{
+    background-color: rgba(38, 50, 56, 1);
+    color: white;
+}
+.my-box{
+    margin-top: 5rem;
+}
+.my-cards{
+    background-color: rgba(245, 245, 245, 1);
+    
+}
+.my-container{
+    height: 150vh;
+}
+.my-h{
+    height: 55%;
+}
+.my-h-2{
+    height: 45%;
+}
+.small-img{
+    width: 100%;
+}
+.mr-2{
+    margin-left: 11px;
+}
+.small-img2{
+    width: 80%;
+}
+.px-30{
+    padding: 5px 40px 5px 40px ;
+}
+.ms-50{
+    margin-left: 100px;
+}
+.small-img3{
+    width: 85%;
+}
